@@ -1,0 +1,22 @@
+{
+    "name": "gartic_clone",
+    "description": "my first gartic socket.io app",
+    "website": "https://github.com/andreocunha/Gartic_Clone.git",
+    "repository": "https://github.com/andreocunha/Gartic_Clone.git",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "success_url": "/",
+    "keywords": [
+      "node",
+      "express",
+      "socket.io",
+      "realtime",
+      "websocket"
+    ],
+    "scripts": {
+    },
+    "addons": [
+    ],
+    "env": {
+      "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  }
